@@ -1,6 +1,6 @@
 int BaseNetworkable = 54131896 // "Signature": "BaseNetworkable_c*"
 int ConVarCulling = 54236688 // "Signature": "ConVar_Culling_c*"
-int ConvarAdmin = 54088184 // "Signature": "ConVar_Admin_c*"
+int ConvarAdminn = 54088184 // "Signature": "ConVar_Admin_c*"
 int ConvarClientt = 54202248 // "Signature": "ConVar_Client_c*"
 int OcclusionCullingg = 54661064 // "Signature": "OcclusionCulling_c*"
 int ConvarGraphicss = 54380448 // "Signature": "ConVar_Graphics_c*"
